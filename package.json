@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-theme-thine",
+  "version": "0.0.1",
+  "description": "The Thine Theme.",
+  "main": "index.js",
+  "repository": "https://github.com/rheinardkorf/gatsby-theme-thine",
+  "author": "Rheinard Korf",
+  "license": "MIT",
+  "devDependencies": {
+    "gatsby": "^2.3.32",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.3.32",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "dependencies": {
+    "gatsby-plugin-page-creator": "^2.0.12"
+  }
+}
